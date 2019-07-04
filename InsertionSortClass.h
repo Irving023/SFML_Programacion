@@ -8,7 +8,7 @@ public:
 
 	virtual ~InsertionSort();
 
-	virtual void SortVector(std::vector<int> vec);
+	virtual void SortVector(std::vector<int> &vec) override;
 
 private:
 

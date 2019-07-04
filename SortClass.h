@@ -10,8 +10,7 @@ public:
 
 	virtual ~Sort();
 
-	virtual void SortVector(std::vector<int> vec);
-
+	virtual void SortVector(std::vector<int> &vec);
 
 private:
 

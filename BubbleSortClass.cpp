@@ -10,7 +10,7 @@ BubbleSort::~BubbleSort()
 
 }
 
-void BubbleSort::SortVector(std::vector<int> vec)
+void BubbleSort::SortVector(std::vector<int> &vec)
 {
-
+	
 }

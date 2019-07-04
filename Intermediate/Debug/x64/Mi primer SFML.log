@@ -1,11 +1,11 @@
 ﻿  main.cpp
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(8,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(9,63): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(9,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(9,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(9,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(10,62): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(10,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(10,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(10,20): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(38,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(39,65): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(39,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(39,37): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(39,23): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(40,65): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(40,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(40,37): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Irving\Documents\SFML\Mi primer SFML\main.cpp(40,23): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
   Mi primer SFML.vcxproj -> C:\Users\Irving\Documents\SFML\Mi primer SFML\Debug\x64\Mi primer SFML.exe

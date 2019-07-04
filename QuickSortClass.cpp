@@ -10,7 +10,7 @@ QuickSort::~QuickSort()
 
 }
 
-void QuickSort::SortVector(std::vector<int> vec)
+void QuickSort::SortVector(std::vector<int> &vec)
 {
-
+	
 }

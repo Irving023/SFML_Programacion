@@ -12,7 +12,7 @@ Sort::~Sort()
 
 }
 
-void Sort::SortVector(std::vector<int> vec)
+void Sort::SortVector(std::vector<int> &vec)
 {
 
 }

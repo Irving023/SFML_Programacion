@@ -8,7 +8,7 @@ public:
 
 	virtual ~QuickSort();
 
-	virtual void SortVector(std::vector<int> vec) override;
+	virtual void SortVector(std::vector<int> &vec) override;
 
 private:
 
