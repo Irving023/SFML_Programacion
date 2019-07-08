@@ -8,7 +8,6 @@
 
 int main()
 {
-
 	// Vector 1 con Insertion Sort
 	std::vector<int> miVector1 = {};
 	miVector1.push_back(10);
@@ -22,36 +21,37 @@ int main()
 	Sort* insertion_sort = new InsertionSort();
 	insertion_sort->SortVector(miVector1);
 
+	std::cout << "Insertion Sort: ";
 	for (int i = 0; i < miVector1.size(); i++)
 	{
 		std::cout << miVector1[i] << " ";
 	}
-	return 0;
 
 	// Vector 2 con Bubble Sort
-	std::vector<int> miVector2 = {31, 25, 54, 56, 97, 78, 24, 75, 77};
+	std::vector<int> miVector2 = { 31, 25, 54, 56, 97, 78, 24, 75, 77 };
 
 	Sort* bubble_sort = new BubbleSort();
 	bubble_sort->SortVector(miVector2);
 
+	std::cout << "Bubble Sort: ";
 	for (int i = 0; i < miVector2.size(); i++)
 	{
 		std::cout << miVector2[i] << " ";
 	}
-	return 0;
-
 
 	// Vector 3 con Quick Sort 
-	std::vector<int> miVector3 = {45, 84, 32, 1, 87, 85, 24, 87, 63, 66};
+	std::vector<int> miVector3 = { 45, 84, 32, 1, 87, 85, 24, 89, 63, 66 };
 
 	Sort* quick_sort = new QuickSort();
-	quick_sort->SortVector(miVector3);
+	quick_sort->SortvectorQuickSort(miVector3, 0, 9);
 
+	std::cout << "Quick Sort: ";
 	for (int i = 0; i < miVector3.size(); i++)
 	{
 		std::cout << miVector3[i] << " ";
 	}
-	return 0;
+
+	
 
 
 	sf::RenderWindow window(sf::VideoMode(250, 250), "SFML works!");
@@ -76,4 +76,5 @@ int main()
 		linea_2.DibujarLinea(window);
 		window.display();
 	}	
+	return 0;
 }
