@@ -142,6 +142,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BubbleSortClass.cpp" />
+    <ClCompile Include="ComponentClass.cpp" />
+    <ClCompile Include="GameObjectClass.cpp" />
     <ClCompile Include="InsertionSortClass.cpp" />
     <ClCompile Include="LineaClass.cpp" />
     <ClCompile Include="main.cpp" />
@@ -150,6 +152,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BubbleSortClass.h" />
+    <ClInclude Include="ComponentClass.h" />
+    <ClInclude Include="GameObjectClass.h" />
     <ClInclude Include="InsertionSortClass.h" />
     <ClInclude Include="LineaClass.h" />
     <ClInclude Include="QuickSortClass.h" />
